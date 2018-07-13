@@ -1,6 +1,5 @@
 # Machine Learning Engineer Nanodegree
-## Specializations
-## Project: Capstone Proposal and Capstone Project
+## Specializations Project: Capstone Proposal and Capstone Project
 -----
 ## Kaggle Competition - Google AI Open Images - Object Detection Track
 Competition:
